@@ -1,0 +1,26 @@
+2020/08/04
+
+Lec 2
+
+# Regression( 회귀 )
+
+# Linear Regression ( 선형 회귀 )
+    데이터 전체를 가장 잘 대변하는 직선의 방정식 찾는 것
+    :: y = ax + b
+
+# Hypothesis ( 가설 )
+    H(x) = Wx + b
+    # Cost ( 비용 ) :: lost , error
+        H(x) - y
+
+# Cost Function ( 비용 함수 )
+    Goal : minimize cost
+    cost( W, b ) = m/1 * sigma( H(x) - y )^2
+    
+    
+
+## Main point keyword ##
+
+Linear Regression
+Hypothesis
+Cost Function
