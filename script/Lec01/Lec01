@@ -1,0 +1,22 @@
+2020/08/04
+
+Lec 1
+
+# ML example) Spam filter, Automatic driving ...
+
+# Supervised( 지도 학습 ) / Unsupervised learning( 비지도 학습 )
+    Supervised learning
+    - learning with labeled examples - training set
+    ex) Image labeling, Email spam filter, Predicting exam score
+    - Regression, Binary Classfication, Multi-label Classfication
+
+    Unsupervised learning
+    - un-labeled data
+    ex) Google news grouping, Word clustering
+
+## Main point keyword ##
+
+Supervised learning
+Unsupervised learning
+Regression
+Classfication
