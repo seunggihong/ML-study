@@ -1,0 +1,19 @@
+2020/08/04
+
+Lec 3
+
+Training
+
+# tensorflow
+    - reduce_mean() = 평균 구하는 함수
+    - square() = 제곱 구하는 함수
+    - A.assgin_sub(B) = A -= B
+    - Variable() = 변수 생성
+
+# Gradient descent ( 경사 하강법 )
+    minimize cost algorithm
+
+## Main point keyword ##
+
+tensorflow code
+Gradient descent
