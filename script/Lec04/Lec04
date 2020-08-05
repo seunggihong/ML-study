@@ -1,0 +1,28 @@
+2020/08/05
+
+Lec 4
+
+# How to minimize cost?
+    Simplified hypothesis
+        - H(x) = Wx
+        - cost = m/1 * sigma( Wx - y )^2
+
+    Gradient descent algorithm
+        - minimize cost function
+    
+    Formal defintion
+        - cost( W, b ) = 2m/1 * sigma( Wx - y )^2
+
+        cost function differential
+        - W := W - m/a * sigma( Wx - y )^2
+                                                    # a = learning rate
+
+# Convex function ( 볼록 함수 )
+    - local minimum
+
+
+## Main point keyword ##
+
+minimize cost
+Gradient descent
+Convex function
