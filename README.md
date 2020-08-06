@@ -1,3 +1,1 @@
 # ML-study
-
-Naver BoostCourse
