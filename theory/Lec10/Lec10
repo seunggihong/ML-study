@@ -1,0 +1,23 @@
+2020/08/06
+
+Lec 10
+
+# Multinomial Classification ( 다항 분류 )
+    Matrix multiplication
+
+    Softmax
+
+    Cost function
+        Cross-entropy
+        - D(S, L) = -sigma L * log(S)
+
+        Gradient descent
+    
+# Logistic cost VS Cross entropy
+
+
+## Main point keyword ##
+
+Multinomial Classification
+Softmax
+Cross-entropy
