@@ -1,0 +1,25 @@
+2020/08/06
+
+Lec 8
+
+# Logistic Regression ( 로지스틱 회귀 )
+    Classification ( 분류 )
+
+    Logistic vs Linear
+    - Logistic  : 구분 가능한 데이터
+    - Linear    : 연속적인 데이터 
+
+    Hypothesis
+        g(Z) function out value is between 0 and 1
+        - Sigmoid ( Logistic ) function
+        :: g(Z) = e^z / ( e^z + 1 ) = 1 / ( 1 + e^-z )
+
+        Decision Boundary ( 결정 경계 )
+
+
+
+
+## Main point keyword ##
+
+Logistic Regression / Classification
+Sigmoid
