@@ -16,6 +16,13 @@ Lec 8
 
         Decision Boundary ( 결정 경계 )
 
+    in X -> Wx + b -> Sigmoid -> 0.5 -> out 0 or 1
+
+    Cost function
+        A convex logistic regression cost function
+        - cost( h(x), y ) = -ylog( h(x) ) - ( 1 - y )log( 1 - h(x) )
+
+        Optimization
 
 
 
